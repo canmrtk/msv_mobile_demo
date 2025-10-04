@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="katman_2" data-name="katman 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 191.09 184.65">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient-3);
+      }
+
+      .cls-3 {
+        fill: url(#linear-gradient);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="47.67" y1="92.32" x2="142.47" y2="92.32" gradientUnits="userSpaceOnUse">
+      <stop offset=".08" stop-color="#abb3c0"/>
+      <stop offset=".28" stop-color="#fff"/>
+      <stop offset=".48" stop-color="#97a1ae"/>
+      <stop offset=".66" stop-color="#b3bac6"/>
+      <stop offset=".78" stop-color="#97a1ae"/>
+      <stop offset="1" stop-color="#959fac"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="123.95" y1="122.18" x2="191.09" y2="122.18" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-3" x1="0" y1="122.16" x2="65.15" y2="122.16" xlink:href="#linear-gradient"/>
+  </defs>
+  <g id="katman_1" data-name="katman 1">
+    <g>
+      <path class="cls-3" d="M134.79,184.65H56.34c.78-4.77-1.2-12.98.21-17.15.32-.95,12.49-9.79,15.25-13.04,8.48-10.01,12.73-24.21,11.53-37.32-3.19-34.92-43.26-38.85-34.38-80.7,10.14-47.8,80.78-48.95,91.88-1.23,9.29,39.92-23.6,44.02-32.15,73.82-4.97,17.32-.25,34.94,11.93,48,9.55,10.24,17.51,8.69,14.18,27.62Z"/>
+      <path class="cls-1" d="M133.96,145.61c-31.76-32.25,19.64-79.55,49.07-44.57,26.97,32.06-19.95,74.13-49.07,44.57Z"/>
+      <path class="cls-2" d="M25.14,89.79c47.45-8.05,53.63,59.17,13.51,64.94-45.94,6.61-51.52-58.5-13.51-64.94Z"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="katman_1" data-name="katman 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1179 2556">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#Adsız_degrade_2);
+      }
+    </style>
+    <linearGradient id="Adsız_degrade_2" data-name="Adsız degrade 2" x1="0" y1="1278" x2="1177.39" y2="1278" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#999"/>
+    </linearGradient>
+  </defs>
+  <rect class="cls-1" width="1177.39" height="2556"/>
+</svg>
